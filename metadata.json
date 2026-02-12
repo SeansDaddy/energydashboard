@@ -1,0 +1,5 @@
+{
+  "name": "Energy Storage O&M Intelligence Dashboard",
+  "description": "A high-end operational monitoring dashboard for energy storage equipment featuring real-time health analytics, risk closure tracking, and system performance metrics.",
+  "requestFramePermissions": []
+}
